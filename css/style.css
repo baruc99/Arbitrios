@@ -202,7 +202,7 @@ body{
 }
 
 .header-1 .site-branding .site-title a img{
-	max-height:58px;
+	max-height:58	px;
 	margin:17px 0;
 	display:block;
 }
@@ -698,7 +698,7 @@ body{
 
 .featured-box .box-1 a{
 	display:block;
-	background:rgba(235, 35, 88, .9);
+	background:rgba(235, 35, 88, 1);
 	color:#fff;
 	height:215px;
 	font-size:30px;
@@ -709,12 +709,13 @@ body{
 }
 
 .featured-box .box-1 a:hover{
-	background:rgba(235, 35, 88, .5);
+	background:rgba(146, 35, 88, 1);
 }
 
 .featured-box .box-1 a span,
 .featured-box .box-2 a span,
-.featured-box .box-3 a span{
+.featured-box .box-3 a span,
+.featured-box .box-4 a span{
 	font-family: "Montserrat-Light";
 	display:block;
 }
@@ -730,7 +731,7 @@ body{
 
 .featured-box .box-2 a{
 	display:block;
-	background:rgba(245, 140, 4, .9);
+	background:rgba(245, 140, 4, 1);
 	color:#fff;
 	height:215px;
 	font-size:30px;
@@ -741,7 +742,7 @@ body{
 }
 
 .featured-box .box-2 a:hover{
-	background:rgba(245, 140, 4, .5);
+	background:rgba(177, 109, 4, 1);
 }
 
 .featured-box .box-3{
@@ -755,7 +756,7 @@ body{
 
 .featured-box .box-3 a{
 	display:block;
-	background:rgba(74, 217, 217, .9);
+	background:rgba(74, 217, 217, 1);
 	color:#fff;
 	height:215px;
 	font-size:30px;
@@ -766,7 +767,32 @@ body{
 }
 
 .featured-box .box-3 a:hover{
-	background:rgba(74, 217, 217, .5);
+	background:rgba(97, 143, 173, 1);
+}
+
+.featured-box .box-4{
+	/* background: url(../images/featured-box-3.jpg) no-repeat center center; */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin:0 -15px;
+}
+
+.featured-box .box-4 a{
+	display:block;
+	background:rgba(115, 61, 150, 1);
+	color:#fff;
+	height:215px;
+	font-size:30px;
+	font-family: "Montserrat-Black";
+	text-transform:uppercase;
+	padding:125px 30px 30px;
+	letter-spacing: 2px;
+}
+
+.featured-box .box-4 a:hover{
+	background:rgba(73, 66, 95, 1);
 }
 
 /*--------------------------------------------------------------
