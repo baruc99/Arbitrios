@@ -504,9 +504,9 @@ body{
 
 .hero-1 .hero-content .hero-caption h2{
 	font-family: "Montserrat-Bold";
-	font-size:52px;
+	font-size:80px;
 	line-height:normal;
-	margin:0 0 30px;
+	padding-top: 5rem;
 	color:#fff;
 	text-transform:uppercase
 }
@@ -516,7 +516,7 @@ body{
 }
 
 .hero-1 .hero-content .hero-caption p{
-	font-size:14px;
+	font-size:31px;
 	line-height:24px;
 	margin:0 2px 30px;
 	font-family: "Montserrat-Light";
@@ -2164,7 +2164,7 @@ body{
 
 .about-us-hero{
 	position:relative;
-	background:url(../images/about-us-bg.jpg) no-repeat center center;
+	background:url(../images/hero-1-bg.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
