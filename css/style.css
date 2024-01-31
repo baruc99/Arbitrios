@@ -701,11 +701,12 @@ body{
 	background:rgba(235, 35, 88, 1);
 	color:#fff;
 	height:215px;
-	font-size:30px;
+	font-size:20px;
 	font-family: "Montserrat-Black";
-	text-transform:uppercase;
-	padding:125px 30px 30px;
+	/* text-transform:uppercase; */
+	padding:50px 30px 30px;
 	letter-spacing: 2px;
+	text-align: center;
 }
 
 .featured-box .box-1 a:hover{
@@ -734,11 +735,12 @@ body{
 	background:rgba(245, 140, 4, 1);
 	color:#fff;
 	height:215px;
-	font-size:30px;
+	font-size:20px;
 	font-family: "Montserrat-Black";
-	text-transform:uppercase;
-	padding:125px 30px 30px;
+	/* text-transform:uppercase; */
+	padding:30px 30px 30px;
 	letter-spacing: 2px;
+	text-align: center;
 }
 
 .featured-box .box-2 a:hover{
@@ -759,11 +761,12 @@ body{
 	background:rgba(74, 217, 217, 1);
 	color:#fff;
 	height:215px;
-	font-size:30px;
+	font-size:20px;
 	font-family: "Montserrat-Black";
-	text-transform:uppercase;
-	padding:125px 30px 30px;
+	/* text-transform:uppercase; */
+	padding:40px 30px 30px;
 	letter-spacing: 2px;
+	text-align: center;
 }
 
 .featured-box .box-3 a:hover{
@@ -784,11 +787,12 @@ body{
 	background:rgba(115, 61, 150, 1);
 	color:#fff;
 	height:215px;
-	font-size:30px;
+	font-size:20px;
 	font-family: "Montserrat-Black";
-	text-transform:uppercase;
-	padding:125px 30px 30px;
+	/* text-transform:uppercase; */
+	padding:40px 30px 30px;
 	letter-spacing: 2px;
+	text-align: center;
 }
 
 .featured-box .box-4 a:hover{
@@ -1369,7 +1373,8 @@ body{
 --------------------------------------------------------------*/
 
 .achievements{
-	background:url(../images/achievements-bg.jpg) no-repeat center center;
+	/* background:url(../images/achievements-bg.jpg) no-repeat center center; */
+	background:url(../images/concepto-negocio-holografia-grafica_23-2149160928.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
