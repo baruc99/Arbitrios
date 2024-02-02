@@ -3789,7 +3789,7 @@ blockquote{
 
 .contact-hero{
 	position:relative;
-	background:url(../images/login-bg.jpg) no-repeat center center;
+	background:url(../images/hero-1-bg.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -3916,7 +3916,8 @@ blockquote{
 
 .contact-information .section-content{
 	padding:60px 80px;
-	background:#004296 url(../images/contact-information-bg.png) no-repeat 92% center;
+	/* background:#004296 url(../images/contact-information-bg.png) no-repeat 92% center; */
+	background:#004296;
 	margin:0 0 70px;
 }
 
@@ -4136,7 +4137,7 @@ blockquote{
 
 .page-not-found-hero{
 	position:relative;
-	background:url(../images/page-not-found-bg.jpg) no-repeat center center;
+	background:url(../images/hero-1-bg.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

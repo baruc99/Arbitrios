@@ -129,6 +129,13 @@
 		margin: 0 0 30px
 	}
 
+	.featured-box .box-1 a,
+	.featured-box .box-2 a,
+	.featured-box .box-3 a,
+	.featured-box .box-4 a{
+		font-size: 15px;
+	}
+
 }
 
 /* width: 991px; */
@@ -1097,6 +1104,17 @@
 	
 	.testimonials .nav li a{
 		border-radius:0
+	}
+
+	.featured-box .box-1 a,
+	.featured-box .box-2 a,
+	.featured-box .box-3 a,
+	.featured-box .box-4 a{
+		font-size: 20px;
+	}
+
+	.contact-hero .hero-content p {
+		font-size: 12px;
 	}
 	
 }
