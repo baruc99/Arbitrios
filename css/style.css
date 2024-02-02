@@ -3916,8 +3916,8 @@ blockquote{
 
 .contact-information .section-content{
 	padding:60px 80px;
-	/* background:#004296 url(../images/contact-information-bg.png) no-repeat 92% center; */
-	background:#004296;
+	background:#004296 url(../images/contact-information-bg.png) no-repeat 92% center;
+	/*background:#004296;*/
 	margin:0 0 70px;
 }
 
